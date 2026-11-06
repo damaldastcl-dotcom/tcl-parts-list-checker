@@ -22,8 +22,8 @@ Open the link in a browser. It works offline once it is open. No search is sent 
 
 ## Sources
 
-- BOM_Table_2026-09-15_1.xlsx, merged Nov 2, 2026 and Nov 5, 2026: serial to BOM lookup and fallback BOM parts. Serials 35,696 as of Nov 6, 2026.
+- BOM_Table_2026-09-15_1.xlsx, merged Nov 2, Nov 5 and Nov 6, 2026: serial to BOM lookup and fallback BOM parts. Serials 35,792 as of Nov 6, 2026.
 - Parts_Prices_Stock - (Internal) - Team Share.xlsx: ASP Pricing, TV division. Upload dates in that file: USA 2026-10-27, Canada 2026-10-26.
 - Remote_control_HQ_-_Team_Share.xlsx: remote pictures and HQ remote notes.
 
-Current build: 2026-11-06, merged Nov 2 BOM file and Nov 5 zip serials. Models 1,016, serials 35,696, ASP TV rows 98,182.
+Current build: 2026-11-06, merged Nov 6 BOM file. Models 1,016, serials 35,792, ASP TV rows 98,182.
